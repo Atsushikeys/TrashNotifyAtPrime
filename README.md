@@ -1,0 +1,2 @@
+# TrashNotifyAtPrime
+Trash day notification
